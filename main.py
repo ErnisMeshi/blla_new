@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print('Where do you live')
     print('12nd')
     print(my_function(2,4))
-
+    print('bllablla')
+    x=3
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
