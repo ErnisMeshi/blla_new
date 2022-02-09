@@ -20,4 +20,5 @@ if __name__ == '__main__':
     print('bllablla')
     x=3
     y=4
+    print(x)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
